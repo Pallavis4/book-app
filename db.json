@@ -1,0 +1,61 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fiction",
+      "publicationYear": 2020
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "publicationYear": 2018
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "publicationYear": 1965
+    },
+    {
+      "id": "4",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publicationYear": 1960
+    },
+    {
+      "id": "5",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publicationYear": 1949
+    },
+    {
+      "id": "6",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "genre": "Technology",
+      "publicationYear": 1999
+    },
+    {
+      "id": "7",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "publicationYear": 2011
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R Tolkien",
+      "genre": "Fantasy",
+      "publicationYear": 1937,
+      "id": "sufJQThkK5c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
